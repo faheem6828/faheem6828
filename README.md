@@ -24,3 +24,5 @@ Accounting & CA remain academic interests.
 Bangladesh-based | Always grinding | DMs open
 
 > "Building skills through consistent practice and real projects."
+
+![snake gif](https://github.com/faheem6828/faheem6828/blob/output/github-snake-dark.svg)
