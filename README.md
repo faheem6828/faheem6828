@@ -11,17 +11,6 @@ Business by degree → Full-Stack Developer by choice.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 
-→ MERN Stack coming in the next 3–6 months
-
-### 2025–2027 Focus
-1. Remote Junior Software Engineer (primary goal)
-2. Web → Systems → DevOps (technical depth)
-3. Security fundamentals (long-term specialization)
-
-Accounting & CA remain academic interests.
-
-**Actively looking for remote junior roles, freelance projects, or mentors.**
-
 Bangladesh-based | Always grinding | DMs open
 
 > "Building skills through consistent practice and real projects."
